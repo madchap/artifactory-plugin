@@ -315,7 +315,7 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.0.1</version>
+            <version>2.7</version>
         </dependency>
         <dependency>
             <groupId>org.slf4j</groupId>
@@ -381,7 +381,7 @@
         <dependency>
             <groupId>com.github.docker-java</groupId>
             <artifactId>docker-java</artifactId>
-            <version>3.0.6</version>
+            <version>3.2.0</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.slf4j</groupId>
@@ -550,7 +550,7 @@
                     <url>http://oss.jfrog.org/artifactory/jfrog-dependencies</url>
                 </repository>
                 <repository>
-                    <snapshots />
+                    <snapshots/>
                     <id>snapshots</id>
                     <name>libs-snapshot</name>
                     <url>http://oss.jfrog.org/artifactory/libs-snapshot</url>
@@ -566,7 +566,7 @@
                     <url>http://oss.jfrog.org/artifactory/jfrog-dependencies</url>
                 </pluginRepository>
                 <pluginRepository>
-                    <snapshots />
+                    <snapshots/>
                     <id>snapshots</id>
                     <name>plugins-snapshot</name>
                     <url>http://oss.jfrog.org/artifactory/plugins-snapshot</url>
